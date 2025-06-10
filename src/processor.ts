@@ -2,8 +2,8 @@ import { Counter } from '@sentio/sdk'
 import { EthChainId } from '@sentio/sdk/eth'
 import { ClaimAcsProcessor } from './types/eth/claimacs.js'; // Path to generated file
 
-const claimAmountValue = Counter.register('claim amount_value');
-const claimCounter = Counter.register('claim counter');
+const claimAmountValue = Counter.register('claim_amount_value');
+const claimCounter = Counter.register('claim_counter');
 
 const CLAIM_CONTRACT = '0x01225c7bDF26ea76318bB717be5A99906cE713Bf'
 const NETWORK = EthChainId.SONEIUM_MAINNET

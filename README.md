@@ -9,6 +9,6 @@ The processor tracks:
 * Claim event details
 
 ## Prerequisites
-Node.js (v20.18)
-pnpm or npm
+* Node.js (v20.18)
+* pnpm or npm
 
