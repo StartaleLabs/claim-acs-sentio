@@ -1,0 +1,5 @@
+project: soneium/claim-acs
+contracts:
+  - chain: "1868"
+    address: "0x01225c7bDF26ea76318bB717be5A99906cE713Bf"
+    name: ClaimAcs
